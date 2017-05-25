@@ -13,5 +13,8 @@ int main()
 	cout<<d<<endl<<reinterpret_cast<int>(d)<<endl;
        
 	//test how to sync to local
+	
+	//second test
+	
 	return 0;
 }
