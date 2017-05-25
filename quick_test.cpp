@@ -11,6 +11,7 @@ int main()
 	double d = reinterpret_cast<double>(n);
 	
 	cout<<d<<endl<<reinterpret_cast<int>(d)<<endl;
-
+       
+	//test how to sync to local
 	return 0;
 }
